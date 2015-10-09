@@ -41,7 +41,7 @@ Der Server bzw. die Hostingumgebung muss folgendes unterstützen:
 2) Zur PDF-Erstellung muss am Server PrinceXML installiert sein
 (siehe http://easybook-project.org/documentation/chapter-8/requirements-2.html)
 
-3) Zur modi-Erstellung muss am Server Amazon KindleGen installiert sein
+3) Zur mobi-Erstellung muss am Server Amazon KindleGen installiert sein
 (siehe http://easybook-project.org/documentation/chapter-7/requirements.html)
 
 
